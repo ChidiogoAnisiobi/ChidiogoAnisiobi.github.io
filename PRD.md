@@ -48,7 +48,6 @@ To ensure professional integrity, the site strictly adheres to source-of-truth g
 - **Software Engineering / Production Code:** The CV provides no evidence of past employment as a software engineer, production software deployments, API implementations, complex database architecture, or security engineering.
 - **Project Work:** No verified public repositories or published case studies currently exist on the target GitHub account.
 - **Data Inconsistencies:**
-  - Dual emails: `anisiobichidiogo@gmail.com` (CV) vs. `emilyhealthtech@gmail.com` (Portfolio/GitHub).
   - Unclear duties/role title for volunteer period at Perfetti Van Melle Company (Apr–Jul 2024).
   - Public display of Lagos, Nigeria location requires candidate confirmation prior to publishing.
 - **Constraints:** Must use static hosting (GitHub Pages), zero backend server requirement for MVP, strict privacy controls (no real patient data, no confidential hospital data), and WCAG 2.1 AA accessibility compliance.
@@ -393,8 +392,7 @@ The visual design should communicate professionalism, clinical clarity, modern t
 | :--- | :--- | :--- | :--- |
 | **Overclaiming Technical Roles** | High | Medium | Enforce strict evidence review. Do not use "Software Engineer" or "Data Scientist" title. Position as "Health Technology Professional / Laboratory Specialist". |
 | **Unverified / Broken Links** | Medium | Low | Run automated link checker CI action before publishing. Place disclaimers or empty states on pending items. |
-| **Privacy / Patient Data Exposure** | Critical | Low | Strict prohibition of any clinical case data without explicit synthetic data disclaimers. |
-| **Email / Contact Mismatch** | Medium | Medium | Require candidate confirmation between `emilyhealthtech@gmail.com` and `anisiobichidiogo@gmail.com` before publishing. |
+| **Privacy / Patient Data Exposure** | Critical | Low | Strict prohibition of any clinical case data without explicit synthetic data disclaimers. 
 | **Unclear Volunteer Work History** | Low | Medium | Clarify duties at Perfetti Van Melle or keep summary concise and generic until verified. |
 
 ---
@@ -439,7 +437,7 @@ The visual design should communicate professionalism, clinical clarity, modern t
 
 Before proceeding to design and full code build, the candidate (**Chidiogo Ozioma Anisiobi**) must review and approve the following decision items:
 
-- [ ] **1. Public Email Confirmation:** Should the published contact link be `emilyhealthtech@gmail.com` (recommended for portfolio alignment) or `anisiobichidiogo@gmail.com` (as listed on CV)?
+- [ ] **1. Public Email Confirmation:** The published contact link should be `emilyhealthtech@gmail.com`
 - [ ] **2. Location Display Approval:** Is "Lagos, Nigeria" approved for public display on the website hero/contact section?
 - [ ] **3. Current Employment Status:** Please confirm if your current role remains Laboratory Assistant at Kosy Medical Laboratory (Aug 2024–Present).
 - [ ] **4. Volunteer Role Clarification:** Please clarify the role title and specific healthcare/wellbeing duties during your volunteer work at Perfetti Van Melle Company (Apr–Jul 2024).

@@ -532,7 +532,7 @@ The design system can be directly implemented using vanilla HTML5, standard CSS 
 4. **Project State:** Defaulted Projects section to an informative empty state component.
 
 ### 14.2 Needs Confirmation
-1. **Public Email Selection:** Confirm whether public email should be `emilyhealthtech@gmail.com` or `anisiobichidiogo@gmail.com`.
+1. **Public Email Selection:** Public email should be `emilyhealthtech@gmail.com`.
 2. **Employment Status:** Confirm current status at Kosy Medical Laboratory (Aug 2024–Present).
 3. **Location Display:** Confirm approval for displaying "Lagos, Nigeria".
 
