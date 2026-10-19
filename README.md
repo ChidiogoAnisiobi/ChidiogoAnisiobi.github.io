@@ -37,16 +37,7 @@ This is a root-relative-free static site: asset references are relative (`assets
 └── README.md
 ```
 
-## Content and verification checklist
 
-Before publishing, confirm:
-
-- The current status/end date for the Kosy Medical Laboratory role. The page shows the start month and explicitly flags the end date for confirmation rather than asserting “present”.
-- The Perfetti Van Melle entry (April–July 2024) has been omitted from public content pending clarification of the relationship and duties.
-- The supplied email, portfolio, LinkedIn, GitHub, and certificate destinations work and are the intended public links.
-- The candidate approves all public wording and the CV-derived career details.
-
-The certificate is described as a certificate of learning, not a degree or professional licence. No projects, project results, proficiency ratings, patient information, testimonials, or unsupported achievements have been invented. The projects area is an honest empty state until genuine work is available.
 
 ## Accessibility and performance notes
 
