@@ -1,6 +1,6 @@
 # Design System Specification: "The Measured Trace"
 ## Personal Health-Tech Portfolio for Chidiogo Ozioma Anisiobi
-**Target Domain:** `https://emilyhealthtech.github.io`
+**Target Domain:** `https://chidiogoanisiobi.github.io/`
 **Version:** 1.0.0
 **Status:** Implementation-Ready Design System Baseline
 
@@ -352,7 +352,7 @@ Prefer defined borders and hairline strokes over fuzzy drop shadows. Shadows are
   2. Specimen trace motif header.
   3. Title (H3): *Health Technology & Data Projects in Preparation*
   4. Body copy: *"Data analysis and health tech case studies are currently being documented and verified. Please check back soon or visit GitHub to view upcoming repositories."*
-  5. CTA: `[ Visit GitHub Profile ↗ ]` (Opens `https://github.com/emilyhealthtech` in new tab).
+  5. CTA: `[ Visit GitHub Profile ↗ ]` (Opens `https://github.com/ChidiogoAnisiobi` in new tab).
 
 ### 8.4 Component 4: Verified Certification Entry (FutureLearn)
 - **Purpose:** Present verified proof of AI & healthcare coursework without exaggerating qualifications.
@@ -385,7 +385,7 @@ Prefer defined borders and hairline strokes over fuzzy drop shadows. Shadows are
 - **Anatomy:**
   1. Title: *Initiate Professional Inquiry*
   2. Direct Email Action: `emilyhealthtech@gmail.com` with `mailto:` link.
-  3. Profiles: LinkedIn (`https://www.linkedin.com/in/chidiogo-anisiobi-458557274`), GitHub (`https://github.com/emilyhealthtech`).
+  3. Profiles: LinkedIn (`https://www.linkedin.com/in/chidiogo-anisiobi-458557274`), GitHub (`https://github.com/ChidiogoAnisiobi`).
   4. Response Expectations Note: *"Open to discussions regarding Health Tech, Healthcare Data Analysis, LIMS, and Clinical Workflow opportunities."*
 
 ---

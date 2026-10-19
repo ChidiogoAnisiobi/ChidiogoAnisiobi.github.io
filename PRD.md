@@ -6,7 +6,7 @@
 ## 1. Document Control
 
 - **Project Name:** Chidiogo Ozioma Anisiobi — Health Technology Portfolio Website
-- **Repository / Target URL:** `https://emilyhealthtech.github.io`
+- **Repository / Target URL:** `https://chidiogoanisiobi.github.io/`
 - **Document Version:** 1.0.0
 - **Status:** Draft for Review / Build-Ready Baseline
 - **Author:** Senior Product Manager, UX Strategist, Technical Recruiter & Software Architect
@@ -194,7 +194,7 @@ The site will use a responsive single-page or simple multi-page structure with s
 ### 8.7 Contact Section
 - **Must Have:**
   - Primary Contact Email: `emilyhealthtech@gmail.com` `[Needs confirmation]` (Fallback: direct `mailto:` link).
-  - Professional Profiles: LinkedIn (`https://www.linkedin.com/in/chidiogo-anisiobi-458557274`) and GitHub (`https://github.com/emilyhealthtech`).
+  - Professional Profiles: LinkedIn (`https://www.linkedin.com/in/chidiogo-anisiobi-458557274`) and GitHub (`https://github.com/ChidiogoAnisiobi`).
   - Response Expectations Note: *"Open to discussions regarding Health Tech, Healthcare Data Analysis, LIMS, and Clinical Workflow opportunities."*
 
 ---
@@ -443,7 +443,7 @@ Before proceeding to design and full code build, the candidate (**Chidiogo Oziom
 - [ ] **2. Location Display Approval:** Is "Lagos, Nigeria" approved for public display on the website hero/contact section?
 - [ ] **3. Current Employment Status:** Please confirm if your current role remains Laboratory Assistant at Kosy Medical Laboratory (Aug 2024–Present).
 - [ ] **4. Volunteer Role Clarification:** Please clarify the role title and specific healthcare/wellbeing duties during your volunteer work at Perfetti Van Melle Company (Apr–Jul 2024).
-- [ ] **5. GitHub Profile Verification:** Confirm that `https://github.com/emilyhealthtech` is your official public profile for linking code repositories.
+- [ ] **5. GitHub Profile Verification:** Confirm that `https://github.com/ChidiogoAnisiobi` is your official public profile for linking code repositories.
 - [ ] **6. LinkedIn Profile Verification:** Confirm that `https://www.linkedin.com/in/chidiogo-anisiobi-458557274` is your official LinkedIn profile URL.
 - [ ] **7. Project Work Status:** Do you currently have any public code repositories or data analytics projects (SQL/Python/Power BI) ready for technical review and inclusion, or should the site launch with the structured empty state?
 - [ ] **8. CV File Upload:** Provide the final sanitized PDF version of your CV to be linked to the "Download CV" button.

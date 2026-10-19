@@ -8,9 +8,9 @@ window.PORTFOLIO_CONTENT = {
   headline: 'Building at the intersection of healthcare and technology.',
   email: 'emilyhealthtech@gmail.com',
   links: {
-    portfolio: 'https://emilyhealthtech.github.io',
+    portfolio: 'https://ChidiogoAnisiobi.github.io',
     linkedin: 'https://www.linkedin.com/in/chidiogo-anisiobi-458557274',
-    github: 'https://github.com/emilyhealthtech',
+    github: 'https://github.com/ChidiogoAnisiobi',
     certificate: 'https://www.futurelearn.com/certificates/0lq64xd'
   },
   certificate: {
